@@ -1,6 +1,6 @@
 # CSMAssessment
 Question 1 till 4
--Just open it like you would normally do, for PHP related file you can put it inside a server of use online compiler
+-Just open it like you would normally do, for PHP related file you can put it inside a server or use online compiler
 Question 5
 -Read the README.txt inside the folder
 Question 6
